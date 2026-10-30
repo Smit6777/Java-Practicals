@@ -1,0 +1,9 @@
+*.class
+*.dat
+*.log
+*.jar
+log*.txt
+folder-report.txt
+.vscode/
+.idea/
+*.iml
